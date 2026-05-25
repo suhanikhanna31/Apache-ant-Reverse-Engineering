@@ -30,47 +30,7 @@ apache-ant-reverse-engineering/
 
 ---
 
-## 🚀 How to Add This to GitHub (Step-by-Step)
 
-### Step 1 — Create a new repository
-
-1. Go to [github.com](https://github.com) and log in
-2. Click the **`+`** icon (top right) → **New repository**
-3. Fill in:
-   - **Repository name:** `apache-ant-reverse-engineering`
-   - **Description:** `Reverse engineering Apache Ant for learning CI/CD pipeline internals — Core Java project`
-   - **Visibility:** Public ✅
-   - ✅ Check **"Add a README file"**
-   - **Add .gitignore:** choose `Java`
-4. Click **Create repository**
-
----
-
-### Step 2 — Edit the README directly on GitHub
-
-1. In your new repo, click on **`README.md`**
-2. Click the **pencil icon** (Edit this file) on the top right
-3. **Delete all existing content** in the editor
-4. **Paste the entire contents of this file** into the editor
-5. Scroll down → click **"Commit changes"**
-   - Commit message: `Add reverse engineering documentation`
-   - Select: **Commit directly to the `main` branch**
-6. Click **Commit changes**
-
----
-
-### Step 3 — Create the `docs/` folder and files
-
-GitHub can't create empty folders, so you create files inside them:
-
-#### Create `docs/architecture.md`
-
-1. In your repo, click **"Add file"** → **"Create new file"**
-2. In the filename box, type: `docs/architecture.md`
-   *(typing the `/` automatically creates the folder)*
-3. Paste the content below and commit:
-
-```
 # Apache Ant — Internal Architecture
 
 ## Overview
